@@ -1,2 +1,3 @@
 bazi degisiklikler yaptim.
 remoteda kodlar ekledim
+burada cakisma olacak
