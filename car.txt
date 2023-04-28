@@ -4,5 +4,9 @@ remoteda kodlar ekledim
 bazi kodlar yazdim.
 
 burada cakisma olacak
+
 ahsen branchi kod yazdi.
+
+.
+
 
